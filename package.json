@@ -1,0 +1,19 @@
+{
+  "name": "modernizr-build.js",
+  "version": "1.0.0",
+  "description": "modernizr-build.js modernizer completo con prefijo \"modernizr-\"",
+  "main": "dist/modernizr-build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneldiablo/modernizr-build.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joneldiablo/modernizr-build.js/issues"
+  },
+  "homepage": "https://github.com/joneldiablo/modernizr-build.js#readme"
+}
